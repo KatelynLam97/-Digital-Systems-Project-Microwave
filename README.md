@@ -10,7 +10,7 @@
     - MEDIUM: 30% duty cycle
     - NORMAL: 50% duty cycle
     - HIGH: 80% duty cycle
-    - 
+      
   - Automatic selection for the following cooking functions with the following specifications:
     - Popcorn: cooks at HIGH for 1:00 mins
     - Potato – cooks at HIGH for 1:00 mins, cooks at NORMAL for 30s, then HIGH for 1:00 min
@@ -20,7 +20,7 @@
     - Reheat – cooks at HIGH for 30s, then cooks at NORMAL for 2:00 mins
     - Defrost – cooks at MEDIUM for 3:00 mins
     - Auto – cooks at NORMAL heat level for 1:30 mins
-    - 
+      
 +	The user must toggle the switch to START before the cooking operation starts. If they want to change a configuration, they must toggle the switch to STOP first
 +	The VGA must display the control panel as shown in Section 1.1. 
    - The timer should update and start counting down from the duration of operation after START is pressed
