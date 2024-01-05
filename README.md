@@ -46,8 +46,6 @@
   - 11: HIGH
     
 ## 3.0 Outputs
-•	Operation LED: simulates microwave heating operation
-•	VGA display
-o	Displays time left before food is finished cooking, and displays “end” when completed
-o	Displays control panel for the microwave
-•	7-seg display (3): displays “end” when microwave has finished cooking
++ Operation LED: simulates microwave heating operation
++ VGA display: Displays control panel for the microwave
++	7-seg display (3): displays “end” when microwave has finished cooking
