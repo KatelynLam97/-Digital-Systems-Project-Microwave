@@ -25,26 +25,27 @@
   - When the corresponding input button is pressed on the keyboard, the display button should flip to a “pressed” graphic for 0.5s to simulate clicking
 + When the cooking operation is finished, “end” should be displayed in the VGA and the 7-segment display.
  
-2.0  Inputs
-•	Start/Stop Switch: Off position indicates stop, on position indicates start
-•	Switch for manual/automatic mode
-•	Keyboard: used to indicate cook modes/duration
-o	Numpad: used to input duration of microwave operation
-o	Microwave Functions
-	p – popcorn
-	o – potato
-	m – meat
-	v – veggies 
-	b - beverage
-	r – reheat
-	d – defrost
-	a – auto
-•	Heating level switches (2): Select heating level based on the following switch inputs:
-o	00: LOW
-o	01: MEDIUM
-o	10: NORMAL
-o	11: HIGH
-3.0 Outputs
+## 2.0  Inputs
++ Start/Stop Switch: Off position indicates stop, on position indicates start
++ Switch for manual/automatic mode
++ Keyboard: used to indicate cook modes/duration
+  - Numpad: used to input duration of microwave operation
+  - Microwave Functions
+    - p – popcorn
+    - o – potato
+    - m – meat
+    - v – veggies
+    - b - beverage
+    - r – reheat
+    - d – defrost
+    - a – auto
++ Heating level switches (2): Select heating level based on the following switch inputs:
+  - 00: LOW
+  - 01: MEDIUM
+  - 10: NORMAL
+  - 11: HIGH
+    
+## 3.0 Outputs
 •	Operation LED: simulates microwave heating operation
 •	VGA display
 o	Displays time left before food is finished cooking, and displays “end” when completed
